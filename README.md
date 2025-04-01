@@ -1,4 +1,13 @@
-- 👋 Hi, I’m Gayatri Singh ,a third B.Tech Student from Graphic Era Hill University
+- # Hi there, I'm Gayatri Singh! 👋
+### 🚀 Web Developer | Machine Learning Enthusiast | Open Source Contributor
+
+🌱 **Currently Learning:** Machine Learning, Cloud Infrastructure  
+💻 **Tech Stack:** C++, Java, JavaScript, React.js, Node.js, Python  
+⚡ **Projects:** [ShopEscape](https://github.com/yourgithub/shopescape), [InvestIQ](https://github.com/yourgithub/investiq)  
+📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=radical)
+
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on full stack development projects.
