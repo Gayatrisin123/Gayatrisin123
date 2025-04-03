@@ -8,7 +8,6 @@ I'm a passionate developer with experience in Frontend development and a growing
 
 
 💡 About Me:
-
 👀 Passionate about coding and problem-solving
 
 🌱 Currently exploring Machine Learning and Cloud Infrastructure
