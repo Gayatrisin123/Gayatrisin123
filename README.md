@@ -1,6 +1,6 @@
 Hi there, I'm Gayatri Singh! 👋
 
-🚀 Web Developer | Machine Learning Enthusiast 
+🚀 Web Developer | Machine Learning Enthusiast | Tech Explorer
 
 I'm a passionate developer with experience in Frontend development and a growing interest in machine learning and cloud infrastructure. I love solving real-world problems through technology and contributing to open-source projects.
 
