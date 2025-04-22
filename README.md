@@ -32,22 +32,7 @@
 <a href="https://x.com/GayatriSin93901" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="mailto:gayatrisingh9317@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-## 🏆 Trophies
 
-<a href="https://github.com/Gayatrisin123">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gayatrisin123&column=8&theme=monokai"/>
-</a>
-
-## 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gayatrisin123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gayatrisin123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-<div align="center">
-    <img  width="325em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gayatrisin123&theme=radical&hide_border=false">
-    <img  width="325em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gayatrisin123&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1">
-</div>
 
 ## 💻 Tech Stack:
 
