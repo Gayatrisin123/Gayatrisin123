@@ -4,7 +4,7 @@
   </h1>
 </div>
 
-### <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I+am+Vibha+Chandola+👋)](https://git.io/typing-svg)</h1>
+### <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I+am+Gayatri+Singh+👋)](https://git.io/typing-svg)</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 ## 🌐 Socials:
