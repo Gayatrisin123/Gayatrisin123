@@ -6,7 +6,6 @@
 
 
 
-#### I'm a passionate developer with experience in full-stack web development and a growing interest in machine learning and Web Development. I love solving real-world problems through technology.
 
 ### 💫 About Me
 
