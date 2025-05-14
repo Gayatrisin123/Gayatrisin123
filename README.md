@@ -4,13 +4,13 @@
   </h1>
 </div>
 
-<!--
-<div align="center">
-  <p style="font-size: 24px;">
-    🚀 Web Developer | Machine Learning Enthusiast | Open Source Contributor
-  </p>
-</div>
--->
+### <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I+am+Vibha+Chandola+👋)](https://git.io/typing-svg)</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibha-chandola-4389a6276/) 
+<!-- [![LeetCode user vc_vibha23](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fvc_vibha23&logo=leetcode&logoColor=yellow)](https://leetcode.com/vc_vibha23/) -->
+
 
 #### I'm a passionate developer with experience in full-stack web development and a growing interest in machine learning and Web Development. I love solving real-world problems through technology.
 
