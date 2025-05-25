@@ -3,12 +3,7 @@
 ### <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I+am+Gayatri+Singh+👋)](https://git.io/typing-svg)</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-# 👋 Hi, I'm Gayatri Singh
 
-**BTech CSE (3rd Year) | Graphic Era Hill University**  
-**Full-Stack Dev | Open Source | ML Enthusiast**
-
----
 
 ## 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
