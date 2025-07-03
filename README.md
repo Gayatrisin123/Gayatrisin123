@@ -9,7 +9,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhikandpal&label=Profile%20views&color=0e75b6&style=flat" alt="siddhikandpal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gayatrisin123&label=Profile%20views&color=0e75b6&style=flat" alt="Gayatrisin123" /> </p>
 
 
 
