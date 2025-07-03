@@ -14,13 +14,6 @@
 
 
 
-
-
-
-
-
-
-
 ### 💫 About Me
 
 - 🎓 I'm a Student and Web Developer
