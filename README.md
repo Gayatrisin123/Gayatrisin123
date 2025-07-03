@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddhikandpal&label=Profile%20views&color=0e75b6&style=flat" alt="siddhikandpal" /> </p>
 
-- 🔭 I’m currently on Prushing **Btech 3 year from Graphic era Hill University**
+- 🔭 I’m currently on Pursuing **Btech CSE from Graphic era Hill University**
 
 
 
