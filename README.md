@@ -39,7 +39,7 @@
 
 ## 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,react,express,c,cpp,mysql,java,nodejs,tailwind,php,mongoDb,next,typescriptbootstrap&perline=8)](https://github.com/Gayatrisin123)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,react,express,c,cpp,mysql,java,nodejs,tailwind,php,mongodb,next,typescript,bootstrap&perline=8)](https://github.com/Gayatrisin123)
 
 ##
 <p align="center">
